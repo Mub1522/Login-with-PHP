@@ -26,7 +26,7 @@
 
 - **Bootstrap 5.3.1**: Framework CSS utilizado para estilizar y dar formato a la interfaz de usuario de manera eficiente.
 
-## Cómo Usar Este Repositorio 🚀
+## Cómo Usar Este Repositorio 🐸
 
 1. Clona este repositorio en tu máquina local.
 
