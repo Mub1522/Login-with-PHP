@@ -36,4 +36,4 @@
 
 4. Abre la página `index.php` en tu navegador para acceder a la Página de Inicio de Sesión.
 
-¡Espero que encuentres útil este proyecto y que te ayude a comprender cómo construir una Página de Inicio de Sesión segura y atractiva utilizando PHP, MySQL y SweetAlert2! Siéntete libre de utilizar este código como referencia para tus propios proyectos. Frey 💗
+¡Espero que encuentres útil este proyecto y que te ayude a comprender cómo construir una Página de Inicio de Sesión segura y atractiva utilizando PHP, MySQL y SweetAlert2! Siéntete libre de utilizar este código como referencia para tus propios proyectos.
